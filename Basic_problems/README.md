@@ -46,4 +46,4 @@ This repository contains solutions to basic Python programming problems. The not
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/abel-111/Python-basics
+git clone https://github.com/abel-111/Python-basics/tree/main/Basic_problems
